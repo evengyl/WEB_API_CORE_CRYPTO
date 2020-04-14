@@ -1,0 +1,8 @@
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\FORMATION TECHNOFUTUR\WEBAPI_DotNetCore\ExternalTools\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
